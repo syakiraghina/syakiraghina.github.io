@@ -1,6 +1,7 @@
 # syakiraghina.github.io
 # My Portofolio
 Halo! aku Syakira Ghina Maulina dan ini adalah portofolio singkat ku
+[![](https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=200322615267&angkatan=2020)]
 ---
 ## Link Linkedin
 Berikut adalah link Linkedin saya. Let's Connect!
