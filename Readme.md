@@ -1,1 +1,0 @@
-syakiraghina.github.io
