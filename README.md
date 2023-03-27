@@ -6,7 +6,7 @@ Halo! aku Syakira Ghina Maulina dan ini adalah portofolio singkat ku
 ## Link Linkedin
 Berikut adalah link Linkedin saya. Let's Connect!
 
-![linkedin](https://user-images.githubusercontent.com/128269937/227975870-ca84eca1-2aee-4af0-b932-75164963e0e2.svg)(https://www.linkedin.com/in/syakiraghina280502/)
+![linkedin](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_16x16.png)(https://www.linkedin.com/in/syakiraghina280502/)
 ---
 ## Data Visualization
 Berikut merupakan salah satu projek data visualisasi data sederhana dengan python
