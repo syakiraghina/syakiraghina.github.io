@@ -2,7 +2,7 @@
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 title : Syakira Ghina Maulina
-logo : ![GetFoto2](https://user-images.githubusercontent.com/128269937/228121116-beced73f-e71f-47c6-89b6-dc8dd3e109dd.jpg)
+logo : "/images/https:/228121116-beced73f-e71f-47c6-89b6-dc8dd3e109dd.jpg?raw=true)
 description: >
   Saya adalah mahasiswa program studi S1 Fisika semester 6 di Universitas Negeri Malang
   <br><br>
