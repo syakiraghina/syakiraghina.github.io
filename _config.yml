@@ -1,3 +1,11 @@
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/merlot@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+title : Syakira Ghina Maulina
+logo :
+description: >
+  Saya adalah mahasiswa program studi S1 Fisika semester 6 di Universitas Negeri Malang
+  <br><br>
+  Saya merupakan peserta Studi Independen Bersertifikat bidang Data Analytics di Zenius
+
+theme: jekyll-theme-minimal
