@@ -25,6 +25,9 @@ Visualisasi Data menggunakan Dataset Titanic
 ### Esai Use Case Data Science di Industri Healthcare
 [Topik 1 2 - [Syakira Ghina Maulina].pdf](https://github.com/syakiraghina/syakiraghina.github.io/files/11085002/Topik.1.2.-.Syakira.Ghina.Maulina.pdf)
 
+### Esai "Langkah-Langkah yang Dikerjakan Pada Use-Case Business Credit Scoring Engine Development beserta Dashboard Monitoring nya"
+[Initial Assesment - Syakira Ghina Maulina.pdf](https://github.com/syakiraghina/syakiraghina.github.io/files/11228446/Initial.Assesment.-.Syakira.Ghina.Maulina.pdf)
+
 ---
 
 ## Social Media
