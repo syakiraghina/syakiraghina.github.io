@@ -19,6 +19,9 @@ Berikut adalah beberapa project yang sudah saya kerjakan
 Berikut merupakan salah satu projek data visualisasi data sederhana dengan python
 [![](https://img.shields.io/badge/Google_Colab-Run_on_Google_Colab-orange?logo=googlecolab&style=flat-square)](https://colab.research.google.com/drive/1gc_TquM0HLes96t8VlN1xuFsD5Mrlm1_?usp=sharing)
 
+Visualisasi Data menggunakan Dataset Titanic
+[![](https://img.shields.io/badge/Google_Colab-Run_on_Google_Colab-orange?logo=googlecolab&style=flat-square)](https://colab.research.google.com/drive/1uLUREf3AJJXtlc-1b6gtswwfhCHkehAO?usp=sharing)
+
 ### Esai Use Case Data Science di Industri Healthcare
 [Topik 1 2 - [Syakira Ghina Maulina].pdf](https://github.com/syakiraghina/syakiraghina.github.io/files/11085002/Topik.1.2.-.Syakira.Ghina.Maulina.pdf)
 
